@@ -1,5 +1,6 @@
 ﻿# Olist-challenge
 A real-world dataset from Olist, Brazil’s largest online department store marketplace. The challenge involved uncovering business insights, forecasting product demand, and segmenting customers — all through dynamic dashboards
+
 📊 Power BI Dashboard Highlights
 
 📌 Overview
